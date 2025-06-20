@@ -21,12 +21,12 @@ I am an (INTJ) Ph.D candidate at [Department of Earth System Science](https://ww
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Advances in Modeling Earth Systems, 2023</div><img src='images/resu-deep.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Advances in Modeling Earth Systems</div><img src='images/resu-deep.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ResU‐Deep: Improving the Trigger Function of Deep Convection in Tropical Regions With Deep Learning](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2022MS003521)
 
-**Mengxuan Chen**, Haohuan Fu, Tao Zhang, Lanning Wang
+**Mengxuan Chen**, Haohuan Fu, Tao Zhang, Lanning Wang (2023)
 
 - A location-aware and deep-learning-based deep convection trigger function is proposed to improve the diurnal cycle simulation in tropics. Results show that terrain information, temporal dependence of convection, and water vapor content are essential for predicting convection. Also, including information from neighboring atmospheric columns can improve the performance of the deep convection trigger function.
 </div>
