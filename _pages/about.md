@@ -32,19 +32,25 @@ I am an (INTJ) Ph.D candidate at [Department of Earth System Science](https://ww
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **Mengxuan Chen**, Ziqi Yuan, Jinxiao Zhang, Runmin Dong, Haohuan Fu*. Decomposing weather forecasting into advection and convection with neural networks. *arXiv preprint arXiv:2405.06590.* 2024.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024* Tsinghua comprehensive scholarship
+- *2021* Outstanding graduate of Shanghai Jiao Tong University
+- *2021* Undergraduate progress scholarship
+- *2020* Undergraduate progress scholarship
+- *2019* Undergraduate progress scholarship
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - Now* Ph.D Candidate in Department of Earth System Science, Tsinghua University, Beijing, China
+- *2017.09 - 2021.08* B. Eng in Shanghai Jiao Tong University, Shanghai, China
+- *2019.01 - 2019.02* Winter Exchange Program in Istituto Tecnologico de Buenos Aires, Buenos Aires, Argentina
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 👩🏻‍💻 Experience
+- *2024.08 - Now* Research Intern @ National Supercomputing Center (Shenzhen)
+  + Weather predictablity and interpretability, flood season predictions
+- *2021.03 - 2021.05* Research Intern @ Pilot National Laboratory for Marine Science and Technology
+  + Optimization of NEMO ocean model on the Sunway Supercomputer
+- *2020.02 - 2021.02* Research Intern @ National Supercomputing Center (Wuxi)
+  + Identifying deep convection with machine learning
