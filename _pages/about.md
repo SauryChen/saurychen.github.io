@@ -21,6 +21,17 @@ I am an (INTJ) Ph.D candidate at [Department of Earth System Science](https://ww
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Geophysical Research Letters</div><img src='images/GAT_MLP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[An Interpretable Weather Forecasting Model With Separately-Learned Dynamics and Physics Neural Networks](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GL114310)
+
+**Mengxuan Chen**, Jinxiao Zhang, Runmin Dong, Yidan Xu, Haoyuan Liang, Juepeng Zheng, Lanning Wang, Haohuan Fu\* (2025)
+
+- A lightweight weather forecast model with graph network and multi-layer perceptron is designed to depict dynamics and physics separately. The design of the graph follows the Arakawa C-grid, with the wind speeds embedded as edge features to simulate the large-scale dynamics. Correlations between graph parameters and atmospheric processes highlight model's interpretability, paving way for more reliable predictions.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Advances in Modeling Earth Systems</div><img src='images/resu-deep.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -30,17 +41,6 @@ I am an (INTJ) Ph.D candidate at [Department of Earth System Science](https://ww
 
 - A location-aware and deep-learning-based deep convection trigger function is proposed to improve the diurnal cycle simulation in tropics. Results show that terrain information, temporal dependence of convection, and water vapor content are essential for predicting convection. Also, including information from neighboring atmospheric columns can improve the performance of the deep convection trigger function.
 
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Geophysical Research Letters</div><img src='images/GAT_MLP.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[An Interpretable Weather Forecasting Model With Separately-Learned Dynamics and Physics Neural Networks](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GL114310)
-
-**Mengxuan Chen**, Jinxiao Zhang, Runmin Dong, Yidan Xu, Haoyuan Liang, Juepeng Zheng, Lanning Wang, Haohuan Fu\* (2025)
-
-- A lightweight weather forecast model with graph network and multi-layer perceptron is designed to depict dynamics and physics separately. The design of the graph follows the Arakawa C-grid, with the wind speeds embedded as edge features to simulate the large-scale dynamics. Correlations between graph parameters and atmospheric processes highlight model's interpretability, paving way for more reliable predictions.
 </div>
 </div>
 
