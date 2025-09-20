@@ -21,6 +21,17 @@ I am an (INTJ) Ph.D candidate at [Department of Earth System Science](https://ww
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS'25 D&B track</div><img src='images/seasonbench-ea.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SeasonBench-EA: A Multi-Source Benchmark for Seasonal Prediction and Numerical Model Post-Processing in East Asia](https://github.com/SauryChen/SeasonBench-EA)
+
+**Mengxuan Chen**, Guowen Li, Ziheng Zou, Fang Wang, Jinxiao Zhang, Runmin Dong, Juepeng Zheng, Haohuan Fu\* (2025)
+
+- **SeasonBench-EA** is a multi-resolution, multi-source benchmark dataset for seasonal prediction in East Asia. It integrates ERA5 reanalysis data, covering key atmospheric variables and boundary conditions, together with ensemble seasonal forecasts from leading operational centers. SeasonBench-EA enables two core tasks: (1) machine learning–based prediction using reanalysis inputs, and (2) post-processing of ensemble forecasts. Beyond standard deterministic and probabilistic metrics, it also includes a hindcast evaluation framework to assess long-term predictive skill and robustness. (*Camera-ready version in preparation.*)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Geophysical Research Letters</div><img src='images/GAT_MLP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
