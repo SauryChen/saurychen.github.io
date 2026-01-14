@@ -58,6 +58,7 @@ I am an (INTJ) Ph.D candidate at [Department of Earth System Science](https://ww
 - **Mengxuan Chen**, Ziqi Yuan, Jinxiao Zhang, Runmin Dong, Haohuan Fu\*. Decomposing weather forecasting into advection and convection with neural networks. *arXiv preprint arXiv:2405.06590.* 2024. (This work is a simplied verson of *An Interpretable Weather Forecasting Model With Separately-Learned Dynamics and Physics Neural Networks*)
 
 # 🎖 Honors and Awards
+- *2025* Tsinghua comprehensive scholarship
 - *2024* Tsinghua comprehensive scholarship
 - *2021* Outstanding graduate of Shanghai Jiao Tong University
 - *2021* Undergraduate progress scholarship
