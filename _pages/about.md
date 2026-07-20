@@ -19,6 +19,8 @@ redirect_from:
 
 I am an (INTJ) Ph.D candidate at [Department of Earth System Science](https://www.dess.tsinghua.edu.cn), [Tsinghua University](https://www.tsinghua.edu.cn). My major is atmospheric science, and I currently conduct research at the intersection of atmospheric science and artificial intelligence. I started working with Prof. [Haohuan Fu](http://www.thuhpgc.net/mediawiki/index.php/Haohuan_Fu) in Fall 2021, prior to that, I got my Bachelor's degree at [UM-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn), majoring in Mechanical Engineering.
 
+If you are interested in [八字 Chinese astrology /求签 fortune sticks /幸运数字 lucky numbers], feel free to check out [玄占实验室/XUANZHAN LAB](https://www.xuanzhanlab.cn), which is a website built entirely by Codex, since I have no front-end development experience.
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/overview.png' alt="sym" width="100%"></div></div>
